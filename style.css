@@ -1,0 +1,33 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #E27D60;
+}
+
+body {
+     
+    background-size: contain  ;
+    background-color: #85DCBA; 
+    
+}
+
+ h2{
+    color: rgb(255, 51, 51);
+ } 
+
+p{
+    font-size: 25px;
+}
+
+h3{
+    font-size: 22.50px;
+    color: #7E33FF;
+}
+ul{
+    font-size: 23px ;
+}
+
+h4{
+    font-size: 23px;
+    color: #ffff00;
+}
